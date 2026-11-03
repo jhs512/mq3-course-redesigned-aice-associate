@@ -41,8 +41,8 @@
       "id": "lsn_3538cb93-edfa-4fa3-a0cf-16eb4906c7d4",
       "title": "묶은 자료와 라이브러리 기능을 읽어요",
       "repository": "jhs512/mq3-lesson-redesigned-aice-python-api",
-      "revision": "aice-python-api-8-spacing-20261103",
-      "sha256": "ab2467ee715781474c0a77ba9c8c7c6b7efe22546d5b2f4ca8c0eaa40ba1fa60",
+      "revision": "aice-python-api-8-spacing-20261103-todo-20261103",
+      "sha256": "2efbbb1e3641502eb880c2e83f52193e56cb1cf469d9545634027fe7bc683400",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
@@ -80,8 +80,8 @@
       "id": "lsn_3230e6c8-44ba-4cb2-8d23-7dcbb54ea519",
       "title": "비거나 중복된 배송 자료를 살펴봐요",
       "repository": "jhs512/mq3-lesson-redesigned-aice-quality",
-      "revision": "aice-quality-7-spacing-20261103",
-      "sha256": "0ab779778f5b0a5c7b243079c53918070c87d237f86d6de9530fd02ce9a39f38",
+      "revision": "aice-quality-7-spacing-20261103-todo-20261103",
+      "sha256": "73cd8597a71a337d68fd84e9c93cd280e15ee85e6b9acc73e9d5423bdb6f80ca",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
@@ -119,8 +119,8 @@
       "id": "lsn_5159c554-6b55-44ec-adb4-bbd76f563656",
       "title": "예측에 쓸 열의 의미를 확인해요",
       "repository": "jhs512/mq3-lesson-redesigned-aice-features",
-      "revision": "aice-features-7-spacing-20261103",
-      "sha256": "738494e20e51c2218ab14d6ee6f878eb06b11e48380d94c3385f0c46890df489",
+      "revision": "aice-features-7-spacing-20261103-todo-20261103",
+      "sha256": "d9eddf9f145bbed0fff0870ce0c3d24bd54566e95310e4c6d5964a1e892da5f4",
       "prerequisites": [],
       "required": true,
       "review_enabled": false,
@@ -325,6 +325,16 @@
     }
   ],
   "change_history": [
+    {
+      "at": "2026-11-03T11:50:36Z",
+      "summary": "문제와 맞지 않는 일반 절차 안내를 정리했어요.",
+      "reason": "보기를 고르거나 답을 적기만 하는 문제에 질문과 어긋나거나 질문을 되풀이하는 할 일이 붙어 있었어요.",
+      "details": [
+        "답만 고르거나 적는 문제는 질문과 보기·답안 칸만 보여요.",
+        "코드 수정 문제 세 개의 할 일을 실제 고칠 내용에 맞췄어요.",
+        "문제 고유 코드와 정답·채점·학습 기록은 유지해요."
+      ]
+    },
     {
       "at": "2026-11-03T10:11:46Z",
       "summary": "수업 문장의 띄어쓰기와 해설 강조 구절을 다듬었어요.",
